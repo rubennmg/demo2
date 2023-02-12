@@ -18,5 +18,8 @@ public class Demo {
 		
 		/* Cambio desde rama2 */
 		System.out.println("Otro cambio desde rama2");
+		
+		/* Otro cambio desde rama2 */
+		System.out.println("Cambio desde rama2");
 	}
 }
