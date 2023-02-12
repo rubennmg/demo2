@@ -21,5 +21,8 @@ public class Demo {
 		
 		/* Cambio en master */
 		System.out.println("Cambio desde master");
+		
+		/* Otro cambio desde rama2 */
+		System.out.println("Cambio desde rama2");
 	}
 }
