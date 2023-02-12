@@ -6,5 +6,8 @@ public class Demo {
 		
 		/* Cambios desde rama2 */
 		System.out.println("Esta es la rama2");
+		
+		/* Nuevo cambio desde master */
+		System.out.println("Cambio desde master");
 	}
 }
